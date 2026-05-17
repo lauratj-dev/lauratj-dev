@@ -70,14 +70,20 @@ Antes de dar el salto al desarrollo, trabajé 5 años en hostelería de alto niv
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 🚧 Próximo proyecto
+
+> Estoy trabajando en **PetCare Tracker** 🐾 — una aplicación web en Vue 3 para el seguimiento del cuidado de mascotas (visitas al veterinario, vacunas, peso).
+>
+> 🛠️ **Stack:** Vue 3 · Pinia · Vue Router · Sass · Vitest · Docker · GitHub Actions
+>
+> *Próximamente disponible.* ⏳
+
+---
+
+## 🏆 Logros en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lauratj-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Laura's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratj-dev&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&langs_count=6" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lauratj-dev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" alt="Trophies"/>
 </p>
 
 ---
